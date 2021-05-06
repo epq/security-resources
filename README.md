@@ -11,6 +11,9 @@
 - [OWASP DevSlop](https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A)
   - YouTube channel discussing DevSecOps
 - [TryHackMe](https://tryhackme.com/)
+- [Finding Security Vulnerabilities through Code Review - The OWASP way](https://www.youtube.com/watch?v=kpf3UkMc5Y4)
+  - Secure code review
+- [Farah Hawa](https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg)
 
 ## General resources
 - https://www.securityweek.com/
